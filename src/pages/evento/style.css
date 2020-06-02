@@ -1,0 +1,47 @@
+.detalhe{
+    grid-column: span 3;
+    
+}
+
+.detalhe:hover{
+    background-color: var(--color-header);
+    color: var(--color-pink)
+}
+
+.detalhe p{
+    font-size: .8rem;
+    color: #fff;
+}
+
+.detalhe-info p{
+    font-size: .8rem;
+    font-weight: bold;
+    color: var(--color-pink);
+}
+
+.detalhe-info span{
+    color: white;
+    font-weight: lighter;
+}
+
+.btn-home{
+    color: var(--color-pink);
+    background-color: var(--color-header);
+    text-align: center;
+    border-radius: .5rem;
+    padding: .5rem;
+    box-shadow: 5px 5px 6px  rgba(0, 0, 0, .1);
+}
+
+.btn-home:hover{
+
+    font-weight: bold;
+    color: var(--color-blue);
+    background-color: var(--color-pink);
+}
+
+
+main#main-evento a{
+    grid-column: span 3;
+
+}

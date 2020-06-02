@@ -1,0 +1,17 @@
+header {
+    text-align: center;
+    background-color: var( --color-header);
+    color: var(--color-pink);
+    width: 100%;
+    padding: 1rem;
+
+}
+
+header img {
+
+
+    width: 110px;
+    height: auto;
+    vertical-align: middle;
+    
+}
