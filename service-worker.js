@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/timbr-app/precache-manifest.b017e25c40fadbfce58e2a7cf0a8a2d5.js"
+  "/timbr-app/precache-manifest.7866e20f7f11d63be11a4afb1f8c8165.js"
 );
 
 self.addEventListener('message', (event) => {
