@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/timbr-app/static/css/main.8c6a2424.chunk.css",
+    "main.js": "/timbr-app/static/js/main.e72c04d5.chunk.js",
+    "main.js.map": "/timbr-app/static/js/main.e72c04d5.chunk.js.map",
+    "runtime-main.js": "/timbr-app/static/js/runtime-main.b5ee63f8.js",
+    "runtime-main.js.map": "/timbr-app/static/js/runtime-main.b5ee63f8.js.map",
+    "static/js/2.dc0f2ebf.chunk.js": "/timbr-app/static/js/2.dc0f2ebf.chunk.js",
+    "static/js/2.dc0f2ebf.chunk.js.map": "/timbr-app/static/js/2.dc0f2ebf.chunk.js.map",
+    "index.html": "/timbr-app/index.html",
+    "precache-manifest.b017e25c40fadbfce58e2a7cf0a8a2d5.js": "/timbr-app/precache-manifest.b017e25c40fadbfce58e2a7cf0a8a2d5.js",
+    "service-worker.js": "/timbr-app/service-worker.js",
+    "static/css/main.8c6a2424.chunk.css.map": "/timbr-app/static/css/main.8c6a2424.chunk.css.map",
+    "static/js/2.dc0f2ebf.chunk.js.LICENSE.txt": "/timbr-app/static/js/2.dc0f2ebf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5ee63f8.js",
+    "static/js/2.dc0f2ebf.chunk.js",
+    "static/css/main.8c6a2424.chunk.css",
+    "static/js/main.e72c04d5.chunk.js"
+  ]
+}
